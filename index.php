@@ -1,4 +1,4 @@
 <?
-echo "Hello";
+echo "Hello World";
 
 ?>
